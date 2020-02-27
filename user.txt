@@ -1,0 +1,84 @@
+# Mysanthropy - Frost - 2020-02-26 22:01 - EU/Tarren Mill
+# SimC Addon 1.12.5
+# Requires SimulationCraft 820-01 or newer
+
+deathknight="Mysanthropy"
+level="120"
+race="blood_elf"
+region="eu"
+server="tarren_mill"
+role="attack"
+professions="blacksmithing=150/mining=175"
+talents="3213211"
+spec="frost"
+
+azerite_essences="14:3/300573/5:3/300575/300576/27:3/300577/312927/37:2"
+# azerite_essences_available=2:2/4:2/5:3/6:1/7:3/12:4/13:1/14:3/15:1/22:1/25:3/27:3/28:3/33:3/34:2/35:3/36:3/37:2
+
+head=",id=174167,bonus_id=4822/1487/4786/6505/4775,context=3,azerite_powers=347/108/21/14/13"
+neck=",id=158075,bonus_id=6316/4932/4933/1624,context=11,azerite_level=77"
+shoulder=",id=174165,bonus_id=4823/1502/4786/6509/4775,context=5,azerite_powers=108/582/459/83/13"
+back=",id=169223,bonus_id=6282/1472,context=11"
+chest=",id=174164,bonus_id=4822/1487/4786/6504/4775,context=3,azerite_powers=108/582/459/465/13"
+shirt=",id=98082"
+tabard=",id=160545,context=14"
+wrist=",id=174956,bonus_id=6540/6513/6578/6579/4803,context=28"
+hands=",id=168980,bonus_id=5007/6578/6579/6544/6513/1517/4786,context=35"
+waist=",id=159426,bonus_id=5010/6578/6579/6544/6515/1637/4786,context=35"
+legs=",id=174172,gem_id=168639,bonus_id=4823/1808/42/6516/6515/1502/4786,context=5"
+feet=",id=174173,bonus_id=4823/6516/6513/1502/4786,context=5"
+finger1=",id=159458,bonus_id=6528/6578/6579/6481/6462/6515/1637/4786,context=35"
+finger2=",id=165679,enchant_id=6108,gem_id=168639,bonus_id=4803/4802/41/6516/6513/1637/4786,context=28"
+trinket1=",id=174044,bonus_id=4823/6515/1502/4786,context=5"
+trinket2=",id=158367,gem_id=168639,bonus_id=6530/4802/41/6513/1642/4786,context=35"
+main_hand=",id=159658,enchant_id=3370,bonus_id=6530/6516/6513/1632/4786,context=16"
+off_hand=",id=172194,enchant_id=3368,bonus_id=4823/6516/6515/1502/4786,context=5"
+
+### Gear from Bags
+# Bone-Fetished Shoulderplates (445)
+# shoulder=,id=157900,bonus_id=1637/4786/6506,context=28,azerite_powers=
+# Malignant Leviathan's Hauberk (445)
+# chest=,id=173837,bonus_id=1502/4786/6504,context=28,azerite_powers=
+# Breastplate of Arterial Protection (450)
+# chest=,id=159432,bonus_id=5448/1617/4786/6269/4775,context=35,azerite_powers=108/480/22/465/13
+# Dragonbone Vambraces (445)
+# wrist=,id=174170,bonus_id=4822/6516/6513/1487/4786,context=3
+# Shadowshroud Vambraces (460)
+# wrist=,id=160212,bonus_id=6528/6516/6515/1632/4786,context=16
+# Bracers of Phantom Pains (445)
+# wrist=,id=174177,bonus_id=4822/6516/6515/1487/4786,context=3
+# Gauntlets of Foul Inquisition (460)
+# hands=,id=174169,bonus_id=4823/42/6578/6579/6541/6515/1502/4786,context=5
+# Malignant Leviathan's Handguards (445)
+# hands=,id=173510,bonus_id=6412/4803/6513/6578/6579/6562/1502/4786,context=28
+# Dark Crystalline Girdle (460)
+# waist=,id=174171,bonus_id=4823/6578/6579/6565/6515/1502/4786,context=5
+# Malignant Leviathan's Legguards (445)
+# legs=,id=173470,bonus_id=6412/4803/6513/6578/6579/6566/1502/4786,context=37
+# Loop of Abhorrent Celerity (445)
+# finger1=,id=174268,enchant_id=6108,gem_id=168636,bonus_id=4822/1808/6516/6513/1487/4786,context=3
+# Vision of Demise (430)
+# trinket1=,id=169307,bonus_id=4799/1502/4786,context=5
+# Phial of the Arcane Tempest (430)
+# trinket1=,id=169313,bonus_id=4799/1502/4786,context=5
+# Vial of Animated Blood (455)
+# trinket1=,id=159625,bonus_id=5008/6515/1627/4786,context=16
+# Sigil of Warding (445)
+# trinket1=,id=173940,bonus_id=4822/6513/1487/4786,context=3
+# Void-Twisted Titanshard (445)
+# trinket1=,id=174528,bonus_id=4822/6515/1487/4786,context=3
+# Dragon Fishing Pole (20)
+# main_hand=,id=84661
+# Krokul Mining Pick (160)
+# main_hand=,id=153290,context=14
+# Brumdysla, Hammer of Vrorsk (1)
+# main_hand=,id=136350,context=11
+# Sk'shuul Vaz (445)
+# main_hand=,id=172200,enchant_id=3847,bonus_id=4822/6572/6578/6579/1487/4786,context=3
+# Lurker's Piercing Gaze (455)
+# main_hand=,id=174109,enchant_id=3368,bonus_id=4822/6516/6513/1487/4786,context=3
+# Lurker's Piercing Gaze (455)
+# off_hand=,id=174109,enchant_id=3368,bonus_id=4822/6516/6513/1487/4786,context=3
+# Krokul Mining Pick (160)
+# off_hand=,id=153290,context=14
+

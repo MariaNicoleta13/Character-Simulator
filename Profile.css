@@ -1,0 +1,12 @@
+.myTextLabel {
+  display: block;
+  text-align: center !important;
+}
+.myTextArea {
+  height: 400px  !important;
+  overflow-y: scroll  !important;
+}
+.submitButton {
+  display: flex;
+  margin: 0 auto;
+}
